@@ -41,8 +41,9 @@ Hey! My name is Ivan, I am currently working 🏢 and in parallel I learn intere
 
 [Time-picker](https://github.com/Kitt-studio/vue-time-picker) - just a time picker for the vue 🕜
 
-### About me :
+[Office hours checker Bot](https://t.me/officeHoursCheckerBot) - telegram bot for tracking work hours in the office
 
+### About me :
 I am interested in participating in the development of open sources
 
 I am also a huge fan of Linux and Linux culture,
@@ -58,7 +59,7 @@ A **list** of distributions I've had, sorted by how much I liked them:
 I also play **Rocket League** via the [Port Proton](https://portwine-linux.ru/epic-games-linux/)
 
 ### Contacts : 
- **Email**   | ivanignatenko28@gmail.com 
+ **Email**   ivanignatenko28@gmail.com 
 
 
 ![](https://komarev.com/ghpvc/?username=kitt3911)
