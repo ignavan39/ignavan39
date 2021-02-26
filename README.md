@@ -3,6 +3,8 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kitt39111/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kitt3911)
 
+![](./programming.gif)
+
 Hey! My name is Ivan, I am currently working 🏢 and in parallel I learn interesting things by type:
 
 - **Web development**
