@@ -12,7 +12,7 @@ Hey! My name is Ivan, I am currently working 🏢 and in parallel I learn intere
 - **High-load systems**
 - **Linux Administration** 🐧
 
-### Skils :
+### Skills :
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
