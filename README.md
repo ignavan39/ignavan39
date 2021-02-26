@@ -6,9 +6,10 @@
 Hey! My name is Ivan, I am currently working 🏢 and in parallel I learn interesting things by type:
 
 - **Web development**
-- **Golang**
+- **Golang development**
 - **Stress testing** 
 - **DevOps** 💻
+- **High-load systems**
 - **Linux Administration** 🐧
 
 ### Skils :
