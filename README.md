@@ -2,6 +2,7 @@
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/kitt39111/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/kitt3911)
+[![Vk Badge](https://img.shields.io/badge/-Vkontakte-0088cc?style=flat-square&logo=Vkontakte&logoColor=white)](https://vk.com/kitt3911)
 
 ![](./programming.gif)
 
