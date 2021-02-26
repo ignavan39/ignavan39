@@ -21,7 +21,7 @@ Hey! My name is Ivan, I am currently working 🏢 and in parallel I learn intere
 | | |
 | ------------- |:------------------:|
 | **Email**   | ivanignatenko28@gmail.com |
-| **Telegram**     | kitt3911    |
+| **Telegram**     | [kitt3911](https://t.me/kitt3911)    |
 |  **Instagram**    | kitt39111 | 
 | **VK**  | kitt3911        | 
 
