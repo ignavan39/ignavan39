@@ -6,7 +6,7 @@ Hey! My name is Ivan, I am currently working 🏢 and in parallel I learn intere
 - **Golang**
 - **Stress testing** 
 - **DevOps** 💻
-
+- **Linux Administration** 🐧
 
 🔭🔨 I’m currently working hard on: [bot for expense managment](https://github.com/kitt3911/expense-managment-bot)
 
@@ -15,6 +15,22 @@ Hey! My name is Ivan, I am currently working 🏢 and in parallel I learn intere
 [Telework](https://github.com/kitt3911/telework) - statistics of web platforms used by teachers during quarantine in our region 📊📈📉
 
 [Time-picker](https://github.com/Kitt-studio/vue-time-picker) - just a time picker for the vue 🕜
+
+### About me
+
+I am interested in participating in the development of open sources
+
+I am also a huge fan of Linux and Linux culture,
+on my home PC I have Linux for 2.5 years
+
+A **list** of distributions I've had, sorted by how much I liked them:
+- Pop!_os (Gnome)
+- Manjaro (KDE)
+- Kali
+- Ubuntu (budgie)
+- Ubuntu
+
+
 
 ### Contacts : 
 
