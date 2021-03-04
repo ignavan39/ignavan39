@@ -51,10 +51,9 @@ on my home PC I have Linux for 2.5 years
 
 A **list** of distributions I've had, sorted by how much I liked them:
 - Pop!_os (Gnome)
-- Manjaro (KDE)
+- Manjaro (KDE / xfce / GNOME)
 - Kali
-- Ubuntu (budgie)
-- Ubuntu
+- Ubuntu (GNOME / budgie)
 
 I also play **Rocket League** via the [Port Proton](https://portwine-linux.ru/epic-games-linux/)
 
