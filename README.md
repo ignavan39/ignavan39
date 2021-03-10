@@ -8,14 +8,13 @@
 
 Hey! My name is Ivan, I am currently working 🏢 and in parallel I learn interesting things by type:
 
-- **Web development**
-- **Golang development**
-- **Stress testing** 
+- **Web development** 🚀
+- **Golang development** 💡
 - **DevOps** 💻
-- **High-load systems**
+- **High-load systems** 🌐
 - **Linux Administration** 🐧
 
-### Skills :
+### Skills 🛠️ :
 
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="javascript"></code>
 <code><img height="27" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs"></code>
@@ -35,7 +34,7 @@ Hey! My name is Ivan, I am currently working 🏢 and in parallel I learn intere
 
 🔭🔨 I’m currently working hard on: [bot for expense managment](https://github.com/kitt3911/expense-managment-bot)
 
-### Projects :
+### Projects ⚙️ :
 
 [Telework](https://github.com/kitt3911/telework) - statistics of web platforms used by teachers during quarantine in our region 📊📈📉
 
