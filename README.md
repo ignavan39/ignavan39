@@ -59,6 +59,7 @@ I also play **Rocket League** via the [Port Proton](https://portwine-linux.ru/ep
 ### Contacts : 
  **Email**   ivanignatenko28@gmail.com 
 
+[![ko-fi](https://img.shields.io/badge/kofi-pink?style=flat-square&logo=ko-fi)](https://ko-fi.com/kitt3911)
 
 ![](https://komarev.com/ghpvc/?username=kitt3911)
 
