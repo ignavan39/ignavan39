@@ -32,6 +32,8 @@ Hey! My name is Ivan, I am currently working 🏢 and in parallel I learn intere
 <code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="docker"></code>|
 
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitt3911)](https://github.com/anuraghazra/github-readme-stats)
+
 🔭🔨 I’m currently working hard on: [bot for expense managment](https://github.com/kitt3911/expense-managment-bot)
 
 ### Projects ⚙️ :
@@ -55,6 +57,7 @@ A **list** of distributions I've had, sorted by how much I liked them:
 - Ubuntu (GNOME / budgie)
 
 I also play **Rocket League** via the [Port Proton](https://portwine-linux.ru/epic-games-linux/)
+
 
 ### Contacts : 
  **Email**   ivanignatenko28@gmail.com 
