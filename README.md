@@ -32,7 +32,7 @@ Hey! My name is Ivan, I am currently working 🏢 and in parallel I learn intere
 <code><img height="27" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" alt="docker"></code>|
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitt3911)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitt3911&count_private=true&show_icons=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
 
 🔭🔨 I’m currently working hard on: [bot for expense managment](https://github.com/kitt3911/expense-managment-bot)
 
