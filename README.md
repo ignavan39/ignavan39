@@ -34,7 +34,7 @@ Hey! My name is Ivan, I am currently working 🏢 and in parallel I learn intere
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitt3911&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-🔭🔨 I’m currently working hard on: [bot for expense managment](https://github.com/kitt3911/expense-managment-bot)
+🔭🔨 I’m currently working hard on: [Trello clone](https://github.com/kitt3911/trello-clone)
 
 ### Projects ⚙️ :
 
