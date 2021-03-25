@@ -37,6 +37,7 @@ My name is Ivan, i work 🏢 and write code 💻 from time to time
 ### About me :
 * I'm from Russia 🇷🇺
 * I like **Web development**  ❤️
+* I once studied at OmSU 🏢
 * Pop!_OS user: <code><img height="25" src="https://user-images.githubusercontent.com/68580920/112361064-33497a00-8cfd-11eb-9fa4-2409622b6af9.png"></code>
 
 I also play **Rocket League** via the [Port Proton](https://portwine-linux.ru/epic-games-linux/)
