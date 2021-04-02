@@ -28,6 +28,7 @@ My name is Ivan, i work 🏢 and write code 💻 from time to time
 
 ### Projects ⚙️ :
 
+* [Crocser](https://github.com/kitt3911/crocser) - Fast, lightweight, tinny url parser
 * [Telework](https://github.com/kitt3911/telework) - statistics of web platforms used by teachers during quarantine in our region 📊📈📉
 * [Time-picker](https://github.com/Kitt-studio/vue-time-picker) - just a time picker for the vue 🕜
 * [Office hours checker Bot](https://t.me/officeHoursCheckerBot) - telegram bot for tracking work hours in the office
