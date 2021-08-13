@@ -18,6 +18,8 @@ My name is Ivan, i work 🏢 and write code 💻 from time to time
 <code><img height="50" src="https://www.itsec.ru/hubfs/ISR/AWS.png" alt="aws"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_architecture_logo.png" alt="aws-lambda"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cloud_icon_128x128px.svg/1200px-Cloud_icon_128x128px.svg.png" alt="yandex-cloud"></code>
+<code><img height="50" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="aws"></code>
+
 
 
 ## technologies I learn 🛠️ :
