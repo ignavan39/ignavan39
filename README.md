@@ -4,23 +4,29 @@
 
 My name is Ivan, i work 🏢 and write code 💻 from time to time
 
-## technologies I learn 🛠️ :
+## technologies I use 🛠️ :
 
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="javascript"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs">
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"></code></code>
-<code><img height="50" src="https://www.itsec.ru/hubfs/ISR/AWS.png" alt="aws"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker"></code>
-<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
-<code><img height="50" src="https://davidwalsh.name/demo/graphql-intro/graphql.png" alt="graphql"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"></code></code>
+<code><img height="50" src="https://davidwalsh.name/demo/graphql-intro/graphql.png" alt="graphql"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png" alt="docker"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
+<code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker"></code>
+<code><img height="50" src="https://www.terraform.io/assets/images/og-image-8b3e4f7d.png"></code>
+<code><img height="50" src="https://www.itsec.ru/hubfs/ISR/AWS.png" alt="aws"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_architecture_logo.png" alt="aws-lambda"></code>
+<code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cloud_icon_128x128px.svg/1200px-Cloud_icon_128x128px.svg.png" alt="yandex-cloud"></code>
+
+
+## technologies I learn 🛠️ :
+
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="docker"></code>
+<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" alt="vuex"></code>
 <code><img height="50" src="https://res-2.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco/rtlx0sivc7wcr75y5bkj" alt="prisma"></code>
-<code><img height="50" src="https://pnpm.js.org/ru/img/pnpm-no-name-with-frame.svg" alt="pnpm"></code>
-
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitt3911&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
@@ -28,8 +34,11 @@ My name is Ivan, i work 🏢 and write code 💻 from time to time
 ### About me :
 * I'm from Russia 🇷🇺
 * I like **Web development**  ❤️
+* **GraphQL** and **SQL** enthusiast 
 * I once studied at OmSU 🏢
-* Pop!_OS user: <code><img height="25" src="https://user-images.githubusercontent.com/68580920/112361064-33497a00-8cfd-11eb-9fa4-2409622b6af9.png"></code>
+* Pop!_OS and MacOs user: <code><img height="25" src="https://user-images.githubusercontent.com/68580920/112361064-33497a00-8cfd-11eb-9fa4-2409622b6af9.png"></code>
+ <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/1024px-MacOS_logo.svg.png"></code>
+
 
 I also play **Rocket League** via the [Port Proton](https://portwine-linux.ru/epic-games-linux/)
 
