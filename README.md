@@ -42,6 +42,15 @@ My name is Ivan, I work 🏢 and write code 💻 all the time
 * Pop!_OS and MacOs user: <code><img height="25" src="https://user-images.githubusercontent.com/68580920/112361064-33497a00-8cfd-11eb-9fa4-2409622b6af9.png"></code>
  <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/1024px-MacOS_logo.svg.png"></code>
 
+## Sources of inspiration:
+
+- Clean Architecture (Robert C. Martin)
+- Clean Code (Robert C. Martin)
+- [Microservices](https://en.wikipedia.org/wiki/Microservices)
+- [SQL](https://en.wikipedia.org/wiki/SQL)
+- [GraphQL](https://graphql.org)
+- [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
+
 ## Contacts:
 
 
