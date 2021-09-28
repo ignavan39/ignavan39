@@ -28,8 +28,10 @@ My name is Ivan, I work 🏢 and write code 💻 all the time
 
 ## technologies I learn 🛠️ :
 
+<code><img height="50" src="https://user-images.githubusercontent.com/68580920/135073969-1e86676b-af58-4955-8e24-d946fb771416.png" alt="k8s"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" alt="vuex"></code>
+
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kitt3911&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
