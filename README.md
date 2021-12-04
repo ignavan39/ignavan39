@@ -4,13 +4,12 @@
 
 My name is Ivan, I work 🏢 and write code 💻 all the time
 
-## technologies that i use for work 🛠️ :
+## technologies with which I worked 🛠️ :
 
 
 <code><img height="50" src="https://user-images.githubusercontent.com/68580920/133027392-c2f0c079-4d8d-45b9-a7ce-c2bc095b240f.png" alt="golang"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/68580920/133027479-2679a9e1-21b5-4122-b919-30de3e956e51.png" alt="gin"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="javascript"></code>
-<code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="nodejs">
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"></code></code>
 <code><img height="50" src="https://davidwalsh.name/demo/graphql-intro/graphql.png" alt="graphql"></code>
@@ -19,18 +18,17 @@ My name is Ivan, I work 🏢 and write code 💻 all the time
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/68580920/133027039-66a6c0e3-f5a2-46cb-ad4e-dd6a9a1b1d6a.png" alt="rabbitMQ"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/68580920/133027132-622acb0f-0c4a-45d0-a0eb-e29b1ab79c72.png" alt="terraform"></code>
+
 <code><img height="50" src="https://www.itsec.ru/hubfs/ISR/AWS.png" alt="aws"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Amazon_Lambda_architecture_logo.png" alt="aws-lambda"></code>
 <code><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Cloud_icon_128x128px.svg/1200px-Cloud_icon_128x128px.svg.png" alt="yandex-cloud"></code>
-<code><img height="50" src="https://about.gitlab.com/images/press/logo/png/gitlab-icon-rgb.png" alt="aws"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-
-## technologies I learn 🛠️ :
 
 <code><img height="50" src="https://user-images.githubusercontent.com/68580920/135073969-1e86676b-af58-4955-8e24-d946fb771416.png" alt="k8s"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" alt="vue"></code>
 <code><img height="50" src="https://user-images.githubusercontent.com/7110136/29002857-9e802f08-7ab4-11e7-9c31-604b5d0d0c19.png" alt="vuex"></code>
+
 
 
 
@@ -41,17 +39,7 @@ My name is Ivan, I work 🏢 and write code 💻 all the time
 * I like **Web development**  ❤️
 * **GraphQL** and **SQL** enthusiast 
 * I once studied at OmSU 🏢
-* Pop!_OS and MacOs user: <code><img height="25" src="https://user-images.githubusercontent.com/68580920/112361064-33497a00-8cfd-11eb-9fa4-2409622b6af9.png"></code>
- <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MacOS_logo.svg/1024px-MacOS_logo.svg.png"></code>
-
-## Sources of inspiration:
-
-- Clean Architecture (Robert C. Martin)
-- Clean Code (Robert C. Martin)
-- [Microservices](https://en.wikipedia.org/wiki/Microservices)
-- [SQL](https://en.wikipedia.org/wiki/SQL)
-- [GraphQL](https://graphql.org)
-- [Design Patterns](https://en.wikipedia.org/wiki/Design_Patterns)
+* Linux user
 
 ## Contacts:
 
