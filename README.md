@@ -8,7 +8,6 @@ My name is Ivan, I work 🏢 and write code 💻 all the time
 
 
 <code><img height="50" src="https://user-images.githubusercontent.com/68580920/133027392-c2f0c079-4d8d-45b9-a7ce-c2bc095b240f.png" alt="golang"></code>
-<code><img height="50" src="https://user-images.githubusercontent.com/68580920/133027479-2679a9e1-21b5-4122-b919-30de3e956e51.png" alt="gin"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="javascript"></code>
 <code><img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
 <code><img height="50" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"></code></code>
