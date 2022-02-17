@@ -45,7 +45,7 @@ My name is Ivan, I work 🏢 and write code 💻 all the time
 
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ignavan39/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ignavan39)
-[![Vk Badge](https://img.shields.io/badge/-Vkontakte-0088cc?style=flat&logo=VK&logoColor=white)](https://vk.com/kitt3911)
+[![Vk Badge](https://img.shields.io/badge/-Vkontakte-0088cc?style=flat&logo=VK&logoColor=white)](https://vk.com/ignavan39)
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=flat&logo=Gmail&logoColor=white&color=red)](https://ivanignatenko@gmail.com)
 [![Hh Badge](https://img.shields.io/badge/-HeadHunter-0088cc?style=flat&logo=Hypothesis&logoColor=white&color=red)](https://ulyanovsk.hh.ru/resume/e12eb5faff07f576bc0039ed1f4c3374777a30)|
 
