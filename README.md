@@ -29,12 +29,12 @@ My name is Ivan, I work 🏢 and write code 💻 all the time
 
 
 
-
+## stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignavan39&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignavan39&hide=javascript&layout=compact)](https://github.com/ignavan39/github-readme-stats)
 
-### About me :
+## About me :
 * I like **Web development**  ❤️
 * **GraphQL** and **SQL** enthusiast 
 * Linux user
