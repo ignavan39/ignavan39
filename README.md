@@ -18,6 +18,9 @@ My name is Ivan, I work 🏢 and write code 💻 all the time
 <code><img height="60" src="https://davidwalsh.name/demo/graphql-intro/graphql.png" alt="graphql"></code>
 <code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
+<code><img height="50" src="https://user-images.githubusercontent.com/68580920/159233046-0166fb72-33ff-467d-8027-0b2d51a508a2.png" alt="vue"></code>
+<code><img height="60" src="https://user-images.githubusercontent.com/68580920/159233184-3eee922c-c5b0-47fe-afb9-83d4c3ececa8.png" alt="vuex"></code>
+
 <code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
 <code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker"></code>
 <code><img height="60" src="https://user-images.githubusercontent.com/68580920/133027039-66a6c0e3-f5a2-46cb-ad4e-dd6a9a1b1d6a.png" alt="rabbitMQ"></code>
