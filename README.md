@@ -36,8 +36,6 @@ My name is Ivan, I work 🏢 and write code 💻 all the time
 
 ## Contacts:
 
-
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/ignavan39/)
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ignavan39)
 [![Vk Badge](https://img.shields.io/badge/-Vkontakte-0088cc?style=flat&logo=VK&logoColor=white)](https://vk.com/ignavan39)
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=flat&logo=Gmail&logoColor=white&color=red)](https://ivanignatenko@gmail.com)
