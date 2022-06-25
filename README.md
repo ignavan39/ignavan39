@@ -39,7 +39,7 @@ My name is Ivan, I work 🏢 and write code 💻 all the time
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ignavan39)
 [![Vk Badge](https://img.shields.io/badge/-Vkontakte-0088cc?style=flat&logo=VK&logoColor=white)](https://vk.com/ignavan39)
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=flat&logo=Gmail&logoColor=white&color=red)](https://ivanignatenko@gmail.com)
-[![Hh Badge](https://img.shields.io/badge/-HeadHunter-0088cc?style=flat&logo=Hypothesis&logoColor=white&color=red)](https://ulyanovsk.hh.ru/resume/e12eb5faff07f576bc0039ed1f4c3374777a30)|
+[![Hh Badge](https://img.shields.io/badge/-HeadHunter-0088cc?style=flat&logo=Hypothesis&logoColor=white&color=red)](https://ulyanovsk.hh.ru/resume/e12eb5faff07f576bc0039ed1f4c3374777a30)
 
 <!--
 **kitt3911/kitt3911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
