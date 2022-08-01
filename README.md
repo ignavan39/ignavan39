@@ -3,7 +3,7 @@
 ![](./programming.gif)
 
 My name is Ivan, I work 🏢 and write code 💻 all the time
-
+Passionate about Web and Distributed Systems
 ## languages and tools 🛠️ :
 
 
