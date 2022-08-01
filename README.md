@@ -2,9 +2,13 @@
 
 ![](./programming.gif)
 
-My name is Ivan, I work 🏢 and write code 💻 all the time
-Passionate about Web and Distributed Systems
-## languages and tools 🛠️ :
+## About:
+* My name is Ivan, I work 🏢 and write code 💻 all the time
+* Passionate about Web and Distributed Systems
+* **Javascript** expirience since 2020
+* **Golang** expirience since 2021
+* Started programming in 2016 in **C** to solve exam problems
+## 🛠️ languages and tools:
 
 
 <code><img height="60" src="https://user-images.githubusercontent.com/68580920/133027392-c2f0c079-4d8d-45b9-a7ce-c2bc095b240f.png" alt="golang"></code>
@@ -28,7 +32,7 @@ Passionate about Web and Distributed Systems
 
 
 
-## stats 
+##  📊 Stats 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignavan39&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignavan39&hide=javascript&layout=compact)](https://github.com/ignavan39/github-readme-stats)
