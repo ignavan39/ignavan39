@@ -20,7 +20,7 @@
 
 
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-plain.svg" alt="nestjs"></code></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="nestjs"></code></code>
 <code><img height="60" src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png" alt="docker"></code>
 <code><img height="60" src="https://davidwalsh.name/demo/graphql-intro/graphql.png" alt="graphql"></code>
 <code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux"></code>
