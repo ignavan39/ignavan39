@@ -53,6 +53,7 @@
 <code><img height="60" src="https://user-images.githubusercontent.com/68580920/133027039-66a6c0e3-f5a2-46cb-ad4e-dd6a9a1b1d6a.png" alt="rabbitMQ"></code>
 <code><img height="60" src="https://user-images.githubusercontent.com/68580920/135073969-1e86676b-af58-4955-8e24-d946fb771416.png" alt="k8s"></code>
 <code><img height="60" src="https://user-images.githubusercontent.com/68580920/224957457-6a252662-2d5f-4648-9a2d-4aff6e9090ab.png" alt="nginx"></code>
+<code><img height="60" src="https://github.com/user-attachments/assets/d3a7a082-0ed7-40d6-9c02-da47a3933e84" alt="grafana"></code>
 
 
 ### Current Focus:
