@@ -8,7 +8,25 @@
 * **Javascript** expirience since 2020
 * **Golang** expirience since 2021
 * Started programming in 2016 in **C** to solve exam problems
-## 🛠️ languages and tools:
+### Core Skills 🛠️:
+
+**Languages & Technologies:**
+- [x] JavaScript/TypeScript (Node.js)
+- [x] Golang
+- [x] SQL databases
+- [x] Distributed Systems
+- [x] High-load Architecture
+
+**Tools & Platforms:**
+- [x] Docker/Kubernetes
+- [x] Message brokers (RabbitMQ)
+- [x] CI/CD pipelines (gitlab)
+- [x] Monitoring solutions (Grafana)
+- [x] Cloud platforms (Yandex, Google)
+
+
+
+
 
 
 <code><img height="60" src="https://user-images.githubusercontent.com/68580920/133027392-c2f0c079-4d8d-45b9-a7ce-c2bc095b240f.png" alt="golang"></code>
@@ -34,6 +52,11 @@
 <code><img height="60" src="https://user-images.githubusercontent.com/68580920/135073969-1e86676b-af58-4955-8e24-d946fb771416.png" alt="k8s"></code>
 <code><img height="60" src="https://user-images.githubusercontent.com/68580920/224957457-6a252662-2d5f-4648-9a2d-4aff6e9090ab.png" alt="nginx"></code>
 
+
+### Current Focus:
+- 🔍 Designing scalable microservices architectures
+- 📊 Building high-performance backend systems
+- 🧠 Knowledge management in engineering teams
 
 
 ##  📊 Stats 
