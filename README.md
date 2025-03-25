@@ -8,6 +8,7 @@
 * **Javascript** expirience since 2020
 * **Golang** expirience since 2021
 * Started programming in 2016 in **C** to solve exam problems
+
 ### Core Skills 🛠️:
 
 **Languages & Technologies:**
@@ -16,6 +17,7 @@
 - [x] SQL databases
 - [x] Distributed Systems
 - [x] High-load Architecture
+- [x] System Design & Performance Optimization  
 
 **Tools & Platforms:**
 - [x] Docker/Kubernetes
