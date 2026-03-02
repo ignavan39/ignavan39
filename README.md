@@ -12,9 +12,10 @@
 ### Core Skills 🛠️:
 
 **Languages & Technologies:**
-- [x] JavaScript/TypeScript (Node.js)
+- [x] JavaScript/TypeScript (Node.js, Express, Typeorm, Nestjs, amqp)
+- [x] Python (SqlAlchemy, UV, Asyncio, Fastapi, Pydantic)
 - [x] Golang
-- [x] SQL databases
+- [x] SQL databases (Postgres, MySql)
 - [x] Distributed Systems
 - [x] High-load Architecture
 - [x] System Design & Performance Optimization  
@@ -30,23 +31,21 @@
 
 
 
-
-<code><img height="60" src="https://user-images.githubusercontent.com/68580920/133027392-c2f0c079-4d8d-45b9-a7ce-c2bc095b240f.png" alt="golang"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="javascript"></code>
+<code><img width="60" alt="image" src="https://github.com/user-attachments/assets/37bb58c6-9732-46b6-9ea8-cde2142fc996" /></code>
 <code><img height="60" src="https://user-images.githubusercontent.com/68580920/155930032-33a35b75-dcc1-4259-bfe6-b67ee3f12804.png" alt="javascript"></code>
-<code><img height="60" src="https://user-images.githubusercontent.com/68580920/224957808-9f6caeae-cbf4-46d4-b7ed-b08b30b369c2.png" alt="clang"></code>
-<code><img height="60" src="https://user-images.githubusercontent.com/68580920/224958798-c16e8949-2e8d-4605-aed0-ed84e1ae511a.png" alt="cpp"></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="javascript"></code>
+<code><img height="60" src="https://user-images.githubusercontent.com/68580920/133027392-c2f0c079-4d8d-45b9-a7ce-c2bc095b240f.png" alt="golang"></code>
 
 
-
+<code><img height="60" alt="image" src="https://github.com/user-attachments/assets/29d9dc65-080d-4df0-8e9d-7c558fa639fe" /></code>
+<code><img height="60" alt="image" src="https://github.com/user-attachments/assets/a2f9abe4-7d88-4790-87a0-1af36d6af0ee" /></code>
+<code><img height="60" alt="image" src="https://github.com/user-attachments/assets/6c68e2e0-782f-4d1a-9f50-4fe4b3d5a34e" /></code>
 <code><img height="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="expressjs"></code>
-<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="nestjs"></code></code>
+<code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" alt="nestjs"></code>
 <code><img height="60" src="https://user-images.githubusercontent.com/30929568/112730670-de09a480-8f58-11eb-9875-0d9ebb87fbd6.png" alt="docker"></code>
 <code><img height="60" src="https://davidwalsh.name/demo/graphql-intro/graphql.png" alt="graphql"></code>
 <code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux"></code>
 <code><img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react"></code>
-<code><img height="50" src="https://user-images.githubusercontent.com/68580920/159233046-0166fb72-33ff-467d-8027-0b2d51a508a2.png" alt="vue"></code>
-<code><img height="60" src="https://user-images.githubusercontent.com/68580920/159233184-3eee922c-c5b0-47fe-afb9-83d4c3ececa8.png" alt="vuex"></code>
 
 <code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql"></code>
 <code><img height="60" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="docker"></code>
@@ -62,17 +61,11 @@
 - 🧠 Knowledge management in engineering teams
 
 
-##  📊 Stats 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ignavan39&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ignavan39&hide=javascript,Makefile,HTML,CSS&layout=compact&count_private=true&langs_count=8)](https://github.com/ignavan39/github-readme-stats)
-
-
 ## Contacts:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ignavan39)
 [![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=flat&logo=Gmail&logoColor=white&color=red)](https://ivanignatenko@gmail.com)
-[![Hh Badge](https://img.shields.io/badge/-HeadHunter-0088cc?style=flat&logo=Hypothesis&logoColor=white&color=red)](https://ulyanovsk.hh.ru/resume/e12eb5faff07f576bc0039ed1f4c3374777a30)|
+[![Hh Badge](https://img.shields.io/badge/-HeadHunter-0088cc?style=flat&logo=Hypothesis&logoColor=white&color=red)](https://ulyanovsk.hh.ru/resume/e12eb5faff07f576bc0039ed1f4c3374777a30)
 
 <!--
 **kitt3911/kitt3911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
