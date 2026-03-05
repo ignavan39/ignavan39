@@ -2,31 +2,29 @@
 
 ![](./programming.gif)
 
-## About:
-* My name is Ivan, I work 🏢 and write code 💻 all the time
-* Passionate about Web and Distributed Systems
-* **Javascript** expirience since 2020
-* **Golang** expirience since 2021
-* Started programming in 2016 in **C** to solve exam problems
+## 🔎 About:
+> Backend engineer focused on building resilient distributed systems. 
+> I enjoy turning complex problems into simple, scalable solutions — 
+> and I'm always open to interesting collaborations. 🤝
 
-### Core Skills 🛠️:
+###  🛠️ Core Skills:
 
-**Languages & Technologies:**
-- [x] JavaScript/TypeScript (Node.js, Express, Typeorm, Nestjs, amqp)
-- [x] Python (SqlAlchemy, UV, Asyncio, Fastapi, Pydantic)
-- [x] Golang
-- [x] SQL databases (Postgres, MySql)
-- [x] Brokers (RabbitMQ)
-- [x] Distributed Systems
-- [x] High-load Architecture
-- [x] System Design & Performance Optimization  
+**📖 Languages & Technologies:**
+- JavaScript/TypeScript (Node.js, Express, Typeorm, Nestjs, amqp)
+- Python (SqlAlchemy, UV, Asyncio, Fastapi, Pydantic)
+- Golang
+- Distributed Systems
+- Clean architecture
+- High-load Architecture
+- System Design & Performance Optimization  
 
-**Tools & Platforms:**
-- [x] Docker/Kubernetes
-- [x] Message brokers (RabbitMQ)
-- [x] CI/CD pipelines (gitlab)
-- [x] Monitoring solutions (Grafana)
-- [x] Cloud platforms (Yandex, Google)
+**⚙️ Tools & Platforms:**
+- Docker/Kubernetes
+- Message brokers (RabbitMQ)
+- SQL databases (Postgres, MySql)
+- CI/CD pipelines (gitlab)
+- Monitoring solutions (Grafana)
+- Cloud platforms (Yandex, Google)
 
 
 
@@ -56,16 +54,16 @@
 <code><img height="60" src="https://github.com/user-attachments/assets/d3a7a082-0ed7-40d6-9c02-da47a3933e84" alt="grafana"></code>
 
 
-### Current Focus:
-- 🔍 Designing scalable microservices architectures
-- 📊 Building high-performance backend systems
-- 🧠 Knowledge management in engineering teams
+### 🎯 Current Focus:
+- Designing scalable microservices architectures
+- Building high-performance backend systems
+- Knowledge management in engineering teams
+- learning Python
 
-
-## Contacts:
+## 📞 Contacts:
 
 [![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/ignavan39)
-[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=flat&logo=Gmail&logoColor=white&color=red)](https://ivanignatenko@gmail.com)
+[![Email Badge](https://img.shields.io/badge/-Email-0088cc?style=flat&logo=Gmail&logoColor=white&color=red)](mailto://ivanignatenko@gmail.com)
 [![Hh Badge](https://img.shields.io/badge/-HeadHunter-0088cc?style=flat&logo=Hypothesis&logoColor=white&color=red)](https://ulyanovsk.hh.ru/resume/e12eb5faff07f576bc0039ed1f4c3374777a30)
 
 <!--
