@@ -16,6 +16,7 @@
 - [x] Python (SqlAlchemy, UV, Asyncio, Fastapi, Pydantic)
 - [x] Golang
 - [x] SQL databases (Postgres, MySql)
+- [x] Brokers (RabbitMQ)
 - [x] Distributed Systems
 - [x] High-load Architecture
 - [x] System Design & Performance Optimization  
