@@ -1,24 +1,17 @@
-# Hi there 👋
-
-![](./programming.gif)
-
-## 🔎 About:
+## About:
 > Backend engineer focused on building resilient distributed systems. 
 > I enjoy turning complex problems into simple, scalable solutions — 
 > and I'm always open to interesting collaborations. 🤝
 
-###  🛠️ Core Skills:
+### Core Skills:
 
-**📖 Languages & Technologies:**
+**Languages & Technologies:**
 - JavaScript/TypeScript (Node.js, Express, Typeorm, Nestjs, amqp)
 - Python (SqlAlchemy, UV, Asyncio, Fastapi, Pydantic)
 - Golang
-- Distributed Systems
 - Clean architecture
-- High-load Architecture
-- System Design & Performance Optimization  
 
-**⚙️ Tools & Platforms:**
+**Tools & Platforms:**
 - Docker/Kubernetes
 - Message brokers (RabbitMQ)
 - SQL databases (Postgres, MySql)
@@ -27,6 +20,7 @@
 - Cloud platforms (Yandex, Google)
 
 
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=mattn&hide=html)
 
 
 
@@ -52,13 +46,6 @@
 <code><img height="60" src="https://user-images.githubusercontent.com/68580920/135073969-1e86676b-af58-4955-8e24-d946fb771416.png" alt="k8s"></code>
 <code><img height="60" src="https://user-images.githubusercontent.com/68580920/224957457-6a252662-2d5f-4648-9a2d-4aff6e9090ab.png" alt="nginx"></code>
 <code><img height="60" src="https://github.com/user-attachments/assets/d3a7a082-0ed7-40d6-9c02-da47a3933e84" alt="grafana"></code>
-
-
-### 🎯 Current Focus:
-- Designing scalable microservices architectures
-- Building high-performance backend systems
-- Knowledge management in engineering teams
-- learning Python
 
 ## 📞 Contacts:
 
