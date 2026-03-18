@@ -9,6 +9,7 @@
 - JavaScript/TypeScript (Node.js, Express, Typeorm, Nestjs, amqp)
 - Python (SqlAlchemy, UV, Asyncio, Fastapi, Pydantic)
 - Golang
+- С++ hobby (writing linux utils, data structures)
 - Clean architecture
 
 **Tools & Platforms:**
