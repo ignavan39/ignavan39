@@ -21,8 +21,13 @@ My [Leetcode](https://leetcode.com/u/kitt3911/) profile
 - Message brokers (RabbitMQ, AMQP)
 - SQL databases (PostgreSQL, MySQL)
 - CI/CD pipelines (GitLab)
-- Monitoring (Grafana)
+- Monitoring (Prometheus, Grafana, Sentry)
 - Cloud platforms (Yandex Cloud, Google Cloud)
+
+**AI-Assisted Workflow:**
+- Claude, Qwen
+- Graphify
+- Opencode
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ignavan39&hide=html)
 
