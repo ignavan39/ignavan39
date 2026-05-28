@@ -3,23 +3,26 @@
 > I enjoy turning complex problems into simple, scalable solutions — 
 > and I'm always open to interesting collaborations. 🤝
 
+My [Leetcode](https://leetcode.com/u/kitt3911/) profile
+
 ### Core Skills:
 
 **Languages & Technologies:**
-- JavaScript/TypeScript (Node.js, Express, Typeorm, Nestjs, amqp)
-- Python (SqlAlchemy, UV, Asyncio, Fastapi, Pydantic)
+- JavaScript/TypeScript (Node.js, Express, TypeORM, NestJS)
+- Python (SQLAlchemy, UV, Asyncio, FastAPI, Pydantic)
 - Golang
-- С++ hobby (writing linux utils, data structures)
-- Clean architecture
+- C++ (hobby: writing linux utils, data structures)
+
+**Concepts & Architecture:**
+- Clean Architecture, Microservices, Distributed Systems
 
 **Tools & Platforms:**
-- Docker/Kubernetes
-- Message brokers (RabbitMQ)
-- SQL databases (Postgres, MySql)
-- CI/CD pipelines (gitlab)
-- Monitoring solutions (Grafana)
-- Cloud platforms (Yandex, Google)
-
+- Docker / Kubernetes
+- Message brokers (RabbitMQ, AMQP)
+- SQL databases (PostgreSQL, MySQL)
+- CI/CD pipelines (GitLab)
+- Monitoring (Grafana)
+- Cloud platforms (Yandex Cloud, Google Cloud)
 
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=ignavan39&hide=html)
 
