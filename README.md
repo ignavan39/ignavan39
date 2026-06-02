@@ -3,7 +3,7 @@
 > I enjoy turning complex problems into simple, scalable solutions — 
 > and I'm always open to interesting collaborations. 🤝
 
-My [Leetcode](https://leetcode.com/u/kitt3911/) profile
+My [Leetcode](https://leetcode.com/u/kitt3911/) & [CodeWars](https://www.codewars.com/users/ignavan39) profile's
 
 ### Core Skills:
 
